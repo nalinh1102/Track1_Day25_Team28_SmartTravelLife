@@ -9,6 +9,6 @@
 
 File: `Day25_AI-Team-Lab_Team28.pdf` (4 trang)
 
-Demo hiện tại quét giấy tờ và xác minh khách. Phản hồi “OK” được ghi nhận là phản hồi ban đầu, chưa phải kết quả kiểm thử chính thức. Chưa có số đo thời gian check-in hay độ chính xác xác minh. Quản lý khách sạn, lễ tân và IT/bảo mật là stakeholder mục tiêu; mức độ quan tâm và stance của họ cần được xác minh.
+Demo hiện tại quét giấy tờ và xác minh khách. Mentor và các khách đã xem demo đều ủng hộ, chưa góp ý cụ thể và sẵn lòng hỗ trợ tiếp. Đây là phản hồi định tính, chưa phải kết quả kiểm thử chính thức. Chưa có số đo thời gian check-in hay độ chính xác xác minh. Quản lý khách sạn, lễ tân và IT/bảo mật là stakeholder mục tiêu; mức độ quan tâm và stance của họ cần được xác minh.
 
 **Lưu ý:** Tiêu đề tài liệu lab ghi Day 27, nhưng format tên repository và PDF trong hướng dẫn ghi Day25. Bài này theo format Day25 của repository hiện tại; nên xác nhận với giảng viên nếu cần.
